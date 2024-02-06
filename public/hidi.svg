@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1920 1080" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="1080" width="1920" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="レイヤー-1" vectornator:layerName="レイヤー 1">
+<path d="M1629.74 5.37871L1624.19 494.274L1618.73 976.116L1191.32 752.551L1572.46 563.985" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="bevel" stroke-width="206" vectornator:layerName="曲線 4"/>
+<path d="M105.236 5.37871L92.4065 840.775L816.432 461.687L813.201 844.912" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="bevel" stroke-width="206" vectornator:layerName="曲線 5"/>
+<path d="M1841.17 272.066L1839.57 502.88L1838.24 692.921L1837.19 844.912L1841.08 285.774" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="bevel" stroke-width="206" vectornator:layerName="曲線 6"/>
+<path d="M1033.53 272.059L1033.53 401.55L1033.53 502.876L1033.53 844.912L1033.53 285.767" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="bevel" stroke-width="206" vectornator:layerName="曲線 7"/>
+</g>
+</svg>
