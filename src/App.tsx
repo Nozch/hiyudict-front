@@ -1,8 +1,7 @@
 import { QueryClient, QueryClientProvider } from "react-query";
-import { LogoDiscription } from "./components/LogoDiscription";
-import MetaphorFetcher from "./components/MetaphorFetcher";
-import MetaphorViewer from "./components/MetaphorViewer";
-import { MetaphorQuery } from "./components/reactQuery/MetaphorQuery";
+import { LogoDiscription } from "./components/common/LogoDiscription";
+import { DisplayAdjectiveMetaphors } from "./components/react_query/DisplayAdjectiveMetaphors";
+import { AdjectiveInput } from "./components/adjectiveInput/adjectiveInput";
 
 const queryClient = new QueryClient()
 
@@ -13,7 +12,8 @@ function App() {
 
       <LogoDiscription />
       {/* <MetaphorFetcher render={metaphor => <MetaphorViewer metaphors={metaphor} />} /> */}
-      <MetaphorQuery />
+      <DisplayAdjectiveMetaphors />
+      <AdjectiveInput />
     </QueryClientProvider>
   </>
   )

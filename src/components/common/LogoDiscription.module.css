@@ -6,6 +6,7 @@
 }
 
 .logo {
+  place-items: center;
   height: 6em;
   padding: 1.5em;
   will-change: filter;
